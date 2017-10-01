@@ -25,7 +25,9 @@ SECRET_KEY = 'u-^44sn03srjcy-frf%x+4f0%=xb6_8rs2d639lo8qs@9r1r9f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'geeriko.pythonanywhere.com'
+]
 
 
 # Application definition
